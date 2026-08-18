@@ -1,84 +1,87 @@
-![Banner de perfil](assets/profile-banner.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-banner-light.svg">
+  <img alt="Jheremy William Huertas Cabanillas — Software Engineering Student"
+       src="assets/profile-banner-light.svg" width="100%">
+</picture>
 
 <!-- ============================================================
      SELECTOR DE IDIOMAS / LANGUAGE SWITCHER
      ============================================================ -->
 <p align="right">
-  <a href="README.md">🇪🇸 ES</a> · 
-  <a href="README.en.md">🇬🇧 EN</a> · 
-  <a href="README.pt.md">🇧🇷 PT</a>
+  <a href="README.md">ES</a> ·
+  <a href="README.en.md">EN</a> ·
+  <a href="README.pt.md">PT</a>
 </p>
 
 <!-- ============================================================
-     PRESENTACIÓN (sin redundancia)
+     PRESENTACIÓN
      ============================================================ -->
-
-📍 Chiclayo, Lambayeque, Perú  
-
-🔗 [LinkedIn](https://www.linkedin.com/in/william-jheremy-huertas-cabanillas-53b56135b) · [Portafolio](https://sparkline-brightpoint.netlify.app/#top) *(en ajustes & mejora continua)*
+Chiclayo, Lambayeque, Perú
+[LinkedIn](https://www.linkedin.com/in/william-jheremy-huertas-cabanillas-53b56135b) · [Portafolio](https://sparkline-brightpoint.netlify.app/#top) *(en ajustes y mejora continua)*
 
 ---
 
 <!-- ============================================================
      FORMACIÓN
      ============================================================ -->
-## 📘 Formación
+## Formación
 
-- **Ingeniería de Software con Inteligencia Artificial** – SENATI  
-  *4.º semestre (en curso)*
+**Ingeniería de Software con Inteligencia Artificial** — SENATI
+*4.º semestre (en curso)*
 
 ---
 
 <!-- ============================================================
      TECNOLOGÍAS
      ============================================================ -->
-## 🛠️ Tecnologías
+## Tecnologías
 
-### Experiencia práctica
-- Java · JavaScript · SQL · HTML5 · CSS3
+**Experiencia práctica**
+`Java` · `JavaScript` · `SQL` · `HTML5` · `CSS3`
 
-### Conocimientos complementarios
-- Modelado y consultas SQL · Análisis funcional · UX/UI  
-- Metodologías Agile/Scrum · Fundamentos de MVC
+**Conocimientos complementarios**
+Modelado y consultas SQL · Análisis funcional · UX/UI
+Metodologías Agile/Scrum · Fundamentos de MVC
 
-### En aprendizaje activo
-- React.js · Node.js · Express · APIs REST  
-- Git/GitHub · PostgreSQL
+**En aprendizaje activo**
+`React.js` · `Node.js` · `Express` · `APIs REST` · `Git/GitHub` · `PostgreSQL`
 
 ---
 
 <!-- ============================================================
      PROYECTOS
      ============================================================ -->
-## 📂 Proyectos
+## Proyectos
 
 ### Académicos
-- **Sistema de ventas de escritorio** (Java + SQL)  
+- **Sistema de ventas de escritorio** (Java + SQL)
   Aplicación para gestión de inventario y facturación.
-
-- **Sistema web para gestión de proyectos** (colaborativo)  
+- **Sistema web para gestión de proyectos** (colaborativo)
   Seguimiento de tareas, actividades, tiempos y costos.
 
 ### Personales
-- **Landing page para venta de motocicletas** (HTML, CSS, JS)  
+- **Landing page para venta de motocicletas** (HTML, CSS, JS)
   Desplegada, con formularios CDC/CDH para capturar interesados y contacto por WhatsApp.
+
+<!-- TODO: agregar capturas de pantalla y enlaces a repositorios cuando estén disponibles -->
 
 ---
 
 <!-- ============================================================
      EXPERIENCIA ACTUAL
      ============================================================ -->
-## 💼 Experiencia actual
+## Experiencia actual
 
-- **Desarrollador en formación** – equipo de desarrollo (empresa en etapa inicial)  
-  Participación en proyectos reales bajo supervisión, aplicando metodologías ágiles y buenas prácticas de codificación.
+**Desarrollador en formación** — equipo de desarrollo (empresa en etapa inicial)
+Participación en proyectos reales bajo supervisión, aplicando metodologías ágiles y buenas prácticas de codificación.
 
 ---
 
 <!-- ============================================================
      ENFOQUE PROFESIONAL
      ============================================================ -->
-## 🎯 Enfoque
+## Enfoque
 
 Transformar necesidades en soluciones funcionales, analizando el impacto de cada decisión técnica y manteniendo una visión centrada en el usuario.
 
@@ -87,9 +90,9 @@ Transformar necesidades en soluciones funcionales, analizando el impacto de cada
 <!-- ============================================================
      CONTACTO
      ============================================================ -->
-## 📬 Contacto
+## Contacto
 
-- **Correo:** jheremyhuertascabanillas@gmail.com  
+**Correo:** jheremyhuertascabanillas@gmail.com
 
 ---
 
