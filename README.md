@@ -1,16 +1,105 @@
-## Hi there 👋
+<!-- ============================================================
+     BANNER ANIMADO (SVG)
+     ============================================================ -->
+![Banner de perfil](assets/profile-banner.svg)
 
+<!-- ============================================================
+     PRESENTACIÓN
+     ============================================================ -->
+# 👋 Hola, soy Jheremy William Huertas Cabanillas
+
+**Estudiante de Ingeniería de Software con Inteligencia Artificial**  
+📍 Chiclayo, Lambayeque, Perú  
+📧 jheremyhuertascabanillas@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/tu-perfil) · [Portafolio](https://tudominio.com) (próximamente)
+
+---
+
+<!-- ============================================================
+     FORMACIÓN
+     ============================================================ -->
+## 📘 Formación
+
+- **Ingeniería de Software con Inteligencia Artificial** – SENATI  
+  *4.º semestre (en curso)*
+
+---
+
+<!-- ============================================================
+     TECNOLOGÍAS
+     ============================================================ -->
+## 🛠️ Tecnologías
+
+### Experiencia práctica
+- Java · JavaScript · SQL · HTML5 · CSS3
+
+### Conocimientos complementarios
+- Modelado y consultas SQL · Análisis funcional · UX/UI  
+- Metodologías Agile/Scrum · Fundamentos de MVC
+
+### En aprendizaje activo
+- React.js · Node.js · Express · APIs REST  
+- Git/GitHub · PostgreSQL
+
+---
+
+<!-- ============================================================
+     PROYECTOS
+     ============================================================ -->
+## 📂 Proyectos
+
+### Académicos
+- **Sistema de ventas de escritorio** (Java + SQL)  
+  Aplicación para gestión de inventario y facturación.
+
+- **Sistema web para gestión de proyectos** (colaborativo)  
+  Seguimiento de tareas, actividades, tiempos y costos.
+
+### Personales
+- **Landing page para venta de motocicletas** (HTML, CSS, JS)  
+  Desplegada, con formularios CDC/CDH para capturar interesados y contacto por WhatsApp.
+
+---
+
+<!-- ============================================================
+     EXPERIENCIA ACTUAL
+     ============================================================ -->
+## 💼 Experiencia actual
+
+- **Desarrollador en formación** – equipo de desarrollo (empresa en etapa inicial)  
+  Participación en proyectos reales bajo supervisión, aplicando metodologías ágiles y buenas prácticas de codificación.
+
+---
+
+<!-- ============================================================
+     ENFOQUE PROFESIONAL
+     ============================================================ -->
+## 🎯 Enfoque
+
+Convertir necesidades en soluciones funcionales, comprendiendo el impacto de cada decisión técnica y manteniendo una visión centrada en el usuario.
+
+---
+
+<!-- ============================================================
+     CONTACTO
+     ============================================================ -->
+## 📬 Contacto
+
+- **Correo:** jheremyhuertascabanillas@gmail.com  
+- **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/tu-perfil)  
+- **Portafolio:** [tudominio.com](https://tudominio.com) (próximamente)
+
+---
+
+<!-- ============================================================
+     FUTURAS ADICIONES (comentarios)
+     ============================================================ -->
 <!--
-**WilliamHuertasC/WilliamHuertasC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Aquí irán:
+- Capturas de pantalla de proyectos (demo)
+- Enlaces directos a repositorios
+- Badges de tecnologías (cuando sea relevante)
+- Estadísticas de GitHub (opcional)
+- Lista de certificaciones
+- Publicaciones o artículos
 -->
