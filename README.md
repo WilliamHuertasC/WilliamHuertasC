@@ -15,7 +15,7 @@
 
 📍 Chiclayo, Lambayeque, Perú  
 
-🔗 [LinkedIn](www.linkedin.com/in/william-jheremy-huertas-cabanillas-53b56135b) - · - [Portafolio](https://sparkline-brightpoint.netlify.app/#top) *(en mejora continua)*
+🔗 [LinkedIn](www.linkedin.com/in/william-jheremy-huertas-cabanillas-53b56135b) · [Portafolio](https://sparkline-brightpoint.netlify.app/#top) *(en mejora continua)*
 
 ---
 
