@@ -10,12 +10,12 @@
         fill: #1e293b;
         animation: fadeSlide 1.5s ease-out forwards;
       }
-      .nombre {
-        font-size: 42px;
-        font-weight: 600;
+      .frase {
+        font-size: 28px;
+        font-weight: 300;
         letter-spacing: 1px;
       }
-      .frase {
+      .subtitulo {
         font-size: 18px;
         font-weight: 300;
         fill: #475569;
@@ -25,17 +25,19 @@
         fill: #f8fafc;
         rx: 12;
       }
+      .linea {
+        stroke: #cbd5e1;
+        stroke-width: 1;
+      }
     </style>
   </defs>
-  <!-- Fondo sutil -->
   <rect class="fondo" width="800" height="200" />
-  <!-- Línea decorativa -->
-  <line x1="40" y1="140" x2="760" y2="140" stroke="#cbd5e1" stroke-width="1" />
-  <!-- Texto principal -->
-  <text x="400" y="80" text-anchor="middle" class="texto nombre">
-    Jheremy William Huertas Cabanillas
+  <line x1="60" y1="140" x2="740" y2="140" class="linea" />
+  <!-- Solo la frase principal, sin nombre -->
+  <text x="400" y="85" text-anchor="middle" class="texto frase">
+    Software Engineering Student
   </text>
-  <text x="400" y="120" text-anchor="middle" class="texto frase">
-    Software Engineering Student | Web, Databases &amp; User-Centered Solutions
+  <text x="400" y="120" text-anchor="middle" class="texto subtitulo">
+    Web · Databases · User-Centered Solutions
   </text>
 </svg>
