@@ -13,10 +13,10 @@
 <!-- ============================================================
      PRESENTACIÓN (sin redundancia)
      ============================================================ -->
-**Jheremy William Huertas Cabanillas**  
+
 📍 Chiclayo, Lambayeque, Perú  
-📧 jheremyhuertascabanillas@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/william-jheremy-huertas-cabanillas-53b56135b) · [Portafolio](https://sparkline-brightpoint.netlify.app/#top) *(en mejora continua)*
+
+🔗 [LinkedIn](www.linkedin.com/in/william-jheremy-huertas-cabanillas-53b56135b) - · - [Portafolio](https://sparkline-brightpoint.netlify.app/#top) *(en mejora continua)*
 
 ---
 
