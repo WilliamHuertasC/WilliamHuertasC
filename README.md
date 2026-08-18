@@ -1,17 +1,22 @@
-<!-- ============================================================
-     BANNER ANIMADO (SVG)
-     ============================================================ -->
 ![Banner de perfil](assets/profile-banner.svg)
 
 <!-- ============================================================
-     PRESENTACIÓN
+     SELECTOR DE IDIOMAS / LANGUAGE SWITCHER
      ============================================================ -->
-# 👋 Hola, soy Jheremy William Huertas Cabanillas
+<p align="right">
+  <a href="README.md">🇬🇧 EN</a> · 
+  <a href="README.es.md">🇪🇸 ES</a> · 
+  <a href="README.pt.md">🇧🇷 PT</a>
+</p><img src="https://img.shields.io/badge/PT-Português-green?style=flat-square&labelColor=white&color=gray" alt="PT"></a>
+</p>
 
-**Estudiante de Ingeniería de Software con Inteligencia Artificial**  
+<!-- ============================================================
+     PRESENTACIÓN (sin redundancia)
+     ============================================================ -->
+**Jheremy William Huertas Cabanillas**  
 📍 Chiclayo, Lambayeque, Perú  
 📧 jheremyhuertascabanillas@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/tu-perfil) · [Portafolio](https://tudominio.com) (próximamente)
+🔗 [LinkedIn](www.linkedin.com/in/william-jheremy-huertas-cabanillas-53b56135b) · [Portafolio](https://sparkline-brightpoint.netlify.app/#top) *(en mejora continua)*
 
 ---
 
@@ -76,7 +81,7 @@
      ============================================================ -->
 ## 🎯 Enfoque
 
-Convertir necesidades en soluciones funcionales, comprendiendo el impacto de cada decisión técnica y manteniendo una visión centrada en el usuario.
+Transformar necesidades en soluciones funcionales, analizando el impacto de cada decisión técnica y manteniendo una visión centrada en el usuario.
 
 ---
 
@@ -86,8 +91,6 @@ Convertir necesidades en soluciones funcionales, comprendiendo el impacto de cad
 ## 📬 Contacto
 
 - **Correo:** jheremyhuertascabanillas@gmail.com  
-- **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/tu-perfil)  
-- **Portafolio:** [tudominio.com](https://tudominio.com) (próximamente)
 
 ---
 
