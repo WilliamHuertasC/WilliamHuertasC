@@ -4,10 +4,9 @@
      SELECTOR DE IDIOMAS / LANGUAGE SWITCHER
      ============================================================ -->
 <p align="right">
-  <a href="README.md">🇬🇧 EN</a> · 
-  <a href="README.es.md">🇪🇸 ES</a> · 
+  <a href="README.md">🇪🇸 ES</a> · 
+  <a href="README.en.md">🇬🇧 EN</a> · 
   <a href="README.pt.md">🇧🇷 PT</a>
-</p><img src="https://img.shields.io/badge/PT-Português-green?style=flat-square&labelColor=white&color=gray" alt="PT"></a>
 </p>
 
 <!-- ============================================================
