@@ -1,103 +1,81 @@
-![Banner de perfil](assets/profile-banner.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-banner-light.svg">
+  <img alt="Jheremy William Huertas Cabanillas — Software Engineering Student"
+       src="assets/profile-banner-light.svg" width="100%">
+</picture>
 
-<!-- ============================================================
-     SELETOR DE IDIOMAS
-     ============================================================ -->
 <p align="right">
-  <a href="README.md">🇪🇸 ES</a> · 
-  <a href="README.en.md">🇬🇧 EN</a> · 
-  <a href="README.pt.md">🇧🇷 PT</a>
+  <a href="README.md">ES</a> ·
+  <a href="README.en.md">EN</a> ·
+  <a href="README.pt.md">PT</a>
 </p>
 
-<!-- ============================================================
-     APRESENTAÇÃO (sem redundância)
-     ============================================================ -->
-
-📍 Chiclayo, Lambayeque, Peru
-
-🔗 [LinkedIn](www.linkedin.com/in/william-jheremy-huertas-cabanillas-53b56135b) · [Portfólio](https://sparkline-brightpoint.netlify.app/#top) *(em melhoria contínua)*
+Chiclayo, Lambayeque, Peru
+[LinkedIn](https://www.linkedin.com/in/william-jheremy-huertas-cabanillas-53b56135b) · [Portfólio](https://sparkline-brightpoint.netlify.app/#top) *(em ajustes e melhoria contínua)*
 
 ---
 
-<!-- ============================================================
-     FORMAÇÃO
-     ============================================================ -->
-## 📘 Formação
+## Formação
 
-- **Engenharia de Software com Inteligência Artificial** – SENATI  
-  *4.º semestre (em andamento)*
+**Engenharia de Software com Inteligência Artificial** — SENATI
+*4.º semestre (em andamento)*
 
 ---
 
-<!-- ============================================================
-     TECNOLOGIAS
-     ============================================================ -->
-## 🛠️ Tecnologias
+## Tecnologias
 
-### Experiência prática
-- Java · JavaScript · SQL · HTML5 · CSS3
+**Experiência prática**
+`Java` · `JavaScript` · `SQL` · `HTML5` · `CSS3`
 
-### Conhecimentos complementares
-- Modelagem e consultas SQL · Análise funcional · UX/UI  
-- Metodologias Agile/Scrum · Fundamentos de MVC
+**Conhecimentos complementares**
+Modelagem e consultas SQL · Análise funcional · UX/UI
+Metodologias Agile/Scrum · Fundamentos de MVC
 
-### Em aprendizado ativo
-- React.js · Node.js · Express · APIs REST  
-- Git/GitHub · PostgreSQL
+**Em aprendizado ativo**
+`React.js` · `Node.js` · `Express` · `APIs REST` · `Git/GitHub` · `PostgreSQL`
 
 ---
 
-<!-- ============================================================
-     PROJETOS
-     ============================================================ -->
-## 📂 Projetos
+## Projetos
 
 ### Acadêmicos
-- **Sistema de vendas desktop** (Java + SQL)  
-  Aplicativo para gerenciamento de estoque e faturamento.
-
-- **Sistema web para gerenciamento de projetos** (colaborativo)  
-  Acompanhamento de tarefas, atividades, tempos e custos.
+- **Sistema de vendas desktop** (Java + SQL)
+  Aplicação para gestão de estoque e faturamento.
+- **Sistema web de gestão de projetos** (colaborativo)
+  Acompanhamento de tarefas, atividades, prazos e custos.
 
 ### Pessoais
-- **Landing page para venda de motocicletas** (HTML, CSS, JS)  
-  Publicada, com formulários CDC/CDH para capturar interessados e contato via WhatsApp.
+- **Landing page para venda de motocicletas** (HTML, CSS, JS)
+  Publicada, com formulários CDC/CDH para captar interessados e contato via WhatsApp.
+
 
 ---
 
-<!-- ============================================================
-     EXPERIÊNCIA ATUAL
-     ============================================================ -->
-## 💼 Experiência atual
+## Experiência atual
 
-- **Desenvolvedor em formação** – equipe de desenvolvimento (empresa em estágio inicial)  
-  Participação em projetos reais sob supervisão, aplicando metodologias ágeis e boas práticas de codificação.
+**Desenvolvedor em formação** — equipe de desenvolvimento (empresa em estágio inicial)
+Participação em projetos reais sob supervisão, aplicando metodologias ágeis e boas práticas de codificação.
 
 ---
 
-<!-- ============================================================
-     FOCO PROFISSIONAL
-     ============================================================ -->
-## 🎯 Foco
+## Abordagem
 
-Transformar necessidades em soluções funcionais, analisando o impacto de cada decisão técnica e mantendo uma visão centrada no usuário.
+Transformar necessidades em soluções funcionais, avaliando o impacto de cada decisão técnica e mantendo uma visão centrada no usuário.
 
 ---
 
-<!-- ============================================================
-     CONTATO
-     ============================================================ -->
-## 📬 Contato
+## Contato
 
-- **E-mail:** jheremyhuertascabanillas@gmail.com
+**E-mail:** jheremyhuertascabanillas@gmail.com
 
 ---
 
-<!-- ============================================================
-     ADIÇÕES FUTURAS (comentários)
-     ============================================================ -->
+<!-- ==
+     FUTURAS ADIÇÕES
+                  == -->
 <!--
-Aqui irão:
+Aqui entrarão:
 - Capturas de tela dos projetos (demos)
 - Links diretos para repositórios
 - Badges de tecnologias (quando relevante)
