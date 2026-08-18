@@ -1,1 +1,24 @@
+<svg width="880" height="160" viewBox="0 0 880 160" xmlns="http://www.w3.org/2000/svg"
+     role="img" aria-label="Jheremy William Huertas Cabanillas — Software Engineering Student">
 
+  <rect width="880" height="160" fill="none" />
+
+  <text x="440" y="72" text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="32" font-weight="600" fill="#1d1d1f" opacity="0">
+    Jheremy William Huertas Cabanillas
+    <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="0.1s" fill="freeze" />
+  </text>
+
+  <line x1="320" y1="96" x2="320" y2="96" stroke="#86868b" stroke-width="1.2" stroke-linecap="round">
+    <animate attributeName="x2" from="320" to="560" dur="0.7s" begin="0.9s" fill="freeze" />
+  </line>
+
+  <text x="440" y="126" text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="15" fill="#6e6e73" opacity="0">
+    Software Engineering Student | Web, Databases &amp; User-Centered Solutions
+    <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="1.4s" fill="freeze" />
+  </text>
+
+</svg>
